@@ -5,6 +5,6 @@ public class Produto {
     private double preço;
     private double quantidadeEmEstoque;
 
-
+//ok
 
 }
